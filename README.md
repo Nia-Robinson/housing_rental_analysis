@@ -10,6 +10,9 @@ neighborhoods_coordinates.csv
 
 sfo_neighborhoods_census_data.csv
 
+
+---
+
 Final Analysis:
 ---
 As rental income growth increases, the trend in sale prices decreases. When the trend in sale prices increases, rental income growth decreases; however, this trend is not true for all the neighborhoods across San Francisco. Westwood Park had the highest gross rent. Union Square District had the highest sale price per square foot.
@@ -33,7 +36,6 @@ JupyterLab for IDE.
 ---
 
 ## Usage:
----
 
 Ensure the proper libraries and dependencies have been imported.
 
